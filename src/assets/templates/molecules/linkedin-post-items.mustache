@@ -1,0 +1,35 @@
+{{#mol-linkedin-post-items}}
+    <div class="linkedin-media__main__media__posts__item">
+        <div class="linkedin-media__main__media__posts__item__news">
+            {{#first-image}}
+                <img src="{{{first-image}}}" alt="image"/>
+            {{/first-image}}
+
+            {{#text}}
+                <p>{{{text}}}</p>
+            {{/text}}
+
+            {{#second-image}}
+                <img src="{{{second-image}}}" alt="image"/>
+            {{/second-image}}
+
+        </div>
+
+
+        <div class="linkedin-media__main__media__posts__item__description">
+            {{#description}}
+                <p>{{{description}}} </p>
+            {{/description}}
+
+            {{#url}}
+             <a href="{{{url}}}">{{{url}}}</a>
+            {{/url}}
+        </div>
+        {{#data}}
+            <div class="linkedin-media__main__media__posts__item__time">
+                <p>{{{data}}}</p>
+            </div>
+        {{/data}}
+    </div>
+
+{{/mol-linkedin-post-items}}

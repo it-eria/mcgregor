@@ -1,0 +1,53 @@
+/* Variables */
+$fontPath: '../fonts/';
+
+/* Font faces */
+@font-face {
+  font-family: 'font-name';
+  src: url('#{$fontPath}/font-name.font-extension') format('format');
+}
+
+@font-face {
+  font-family: 'LibreBaskerville-Regular';
+  src: url('#{$fontPath}/LibreBaskerville-Regular.eot');
+  src: url('#{$fontPath}/LibreBaskerville-Regular.woff2') format('woff2'),
+       url('#{$fontPath}/LibreBaskerville-Regular.woff') format('woff'),
+       url('#{$fontPath}/LibreBaskerville-Regular.ttf') format('truetype'),
+       url('#{$fontPath}/LibreBaskerville-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'LibreBaskerville-Bold';
+  src: url('#{$fontPath}/LibreBaskerville-Bold.eot');
+  src: url('#{$fontPath}/LibreBaskerville-Bold.woff2') format('woff2'),
+       url('#{$fontPath}/LibreBaskerville-Bold.woff') format('woff'),
+       url('#{$fontPath}/LibreBaskerville-Bold.ttf') format('truetype'),
+       url('#{$fontPath}/LibreBaskerville-Bold.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NunitoSans-Regular';
+  src: url('#{$fontPath}/NunitoSans-Regular.eot');
+  src: url('#{$fontPath}/NunitoSans-Regular.woff2') format('woff2'),
+       url('#{$fontPath}/NunitoSans-Regular.woff') format('woff'),
+       url('#{$fontPath}/NunitoSans-Regular.ttf') format('truetype'),
+       url('#{$fontPath}/NunitoSans-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NunitoSans-Light';
+  src: url('#{$fontPath}/NunitoSans-Light.eot');
+  src: url('#{$fontPath}/NunitoSans-Light.woff2') format('woff2'),
+       url('#{$fontPath}/NunitoSans-Light.woff') format('woff'),
+       url('#{$fontPath}/NunitoSans-Light.ttf') format('truetype'),
+       url('#{$fontPath}/NunitoSans-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+

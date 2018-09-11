@@ -1,0 +1,32 @@
+{{#org-section-linkedin}}
+    <section id="media" data-number="{{dataAttr}}" class="linkedin-media" style="background-image: url('assets/img/media-bg.jpg')">
+        <div class="container">
+            <div class="linkedin-media__main">
+                <div class="linkedin-media__main__content col-12 col-lg-6">
+                {{> ../molecules/title-h2-default}}
+                    {{> ../molecules/linkedin-james-bio}}
+                    <div class="linkedin-media__main__content__description scroll-me-all-night-long"
+                         data-js="scroll-bar">
+                        {{> ../molecules/linkedin-james-text}}
+                    </div>
+                    <div class="linkedin-media__main__content__image"
+                         style="background-image: url('assets/img/media-image.png')">
+                    </div>
+                </div>
+                <div class="linkedin-media__main__media col-12 col-lg-6">
+                    <div class="linkedin-media__main__media__title">
+                        <h2>Media</h2>
+                    </div>
+                    <div class="linkedin-media__main__media__posts scroll-me-all-night-long" data-js="scroll-bar">
+                        {{> ../molecules/linkedin-post-items}}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="home__copyright">
+            <div class="container">
+                {{> ../molecules/copyright}}
+            </div>
+        </div>
+    </section>
+{{/org-section-linkedin}}

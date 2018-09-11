@@ -1,0 +1,20 @@
+{{#mol-linkedin-james-bio}}
+    <div class="linkedin-media__main__content__post">
+        <div class="linkedin-media__main__content__post__image"
+             style="background-image: url('assets/img/author-image.jpg')">
+        </div>
+        {{#name}}
+            <div class="linkedin-media__main__content__post__name">
+                <h2>{{{name}}}</h2>
+                {{#description}}
+                    <p>{{{description}}}</p>
+                {{/description}}
+            </div>
+        {{/name}}
+        {{#button}}
+            <div class="linkedin-media__main__content__post__follow">
+                <a href="{{{button}}}"><i class="fa fa-plus"></i>Follow</a>
+            </div>
+        {{/button}}
+    </div>
+{{/mol-linkedin-james-bio}}
