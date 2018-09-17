@@ -1,0 +1,20 @@
+{{#org-section-speaking}}
+    <section id="speaking" data-number="{{dataAttr}}" class="speaking" style="background-image: url('assets/img/speaking-bg.jpg')">
+        <div class="container">
+            <div class="speaking__main">       
+                {{> ../molecules/title-h2-default}}
+                <div class="speaking__main__block">
+                    {{> ../molecules/speaking-content-info}}
+                    <div class="speaking__main__posts scroll-me-all-night-long col-lg-6 col-12" data-js="scroll-bar">
+                        {{> ../molecules/speaking-content-with-links}}
+                    </div>
+                </div>
+            </div> 
+        </div>
+        <div class="home__copyright">
+            <div class="container">
+                {{> ../molecules/copyright}}
+            </div>
+        </div>
+    </section>
+{{/org-section-speaking}}

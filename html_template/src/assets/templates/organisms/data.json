@@ -1,0 +1,732 @@
+{
+  "org-header-block": {
+    "mol-header-logo": {
+      "logo": "assets/img/logo.png"
+    },
+    "mol-header-menu-items": [
+      {
+        "title": "About me",
+        "scrollUrl": "/about"
+      },
+      {
+        "title": "Books",
+        "scrollUrl": "/books"
+      },
+      {
+        "title": "Speaking",
+        "scrollUrl": "#3"
+      },
+      {
+        "title": "Consulting",
+        "scrollUrl": "#4"
+      },
+      {
+        "title": "Media",
+        "scrollUrl": "#5"
+      },
+      {
+        "title": "Contact",
+        "scrollUrl": "#6"
+      }
+    ],
+    "mol-social-header": [
+      {
+        "url": "#"
+      }
+    ],
+    "mol-resize-header-items": [
+      {
+        "items": "About me"
+      },
+      {
+        "items": "Books"
+      },
+      {
+        "items": "Speaking"
+      },
+      {
+        "items": "Consulting"
+      },
+      {
+        "items": "Media"
+      },
+      {
+        "items": "Contact"
+      }
+    ]
+  },
+  
+  "org-section-home": {
+    "mol-home-content": {
+      "title": "James Mc Gregor",
+      "description": "Is an American author, journalist and businessman who has lived in China for three decades.  He is also a professional speaker, commentator for a variety of media outlets and a consultant who specializes on China policy, communications and business strategies.",
+      "button": "Read more"
+    },
+    "mol-copyright": {
+      "text": "Copyright ©2018, James Mc Gregor Inc. All rights reserved",
+      "social-url": "#"
+    },
+    "mol-home-mobile-image": {
+      "img": "assets/img/mobile-home.jpg"
+    }
+  },
+
+  "org-section-books": {
+    "mol-copyright": {
+      "text": "Copyright ©2018, James Mc Gregor Inc. All rights reserved",
+      "social-url": "#"
+    },
+    "mol-books": [
+      {
+        "img": "assets/img/one-billion-us.jpg",
+        "title": "ONE BILLION CUSTUMERS",
+        "description": "Lessons from the Front Lines of Doing Business in China",
+        "url": "#",
+        "book-link": "https://www.amazon.com/One-Billion-Customers-Lessons-Business/dp/074325841X"
+      },
+      {
+        "img": "assets/img/no-ancient.jpg",
+        "title": "NO ANCIENT WISDOM, NO FOLLOWERS:",
+        "description": "The Challenges of Chinese Authoritarian Capitalism",
+        "url": "#",
+        "book-link": "https://www.amazon.com/ANCIENT-WISDOM-FOLLOWERS-Challenges-Authoritarian"
+      },
+      {
+        "img": "assets/img/china-drive.png",
+        "title": "China’s Drive for “Indigenous Innovation”",
+        "description": "A Web of Industrial Polices",
+        "url": "#",
+        "book-link": "https://www.uschamber.com/sites/default/files/legacy/reports/100728chinareport_0.pdf"
+      }
+    ],
+    "mol-title-h2-default": {
+      "title": "Books"
+    }
+  },
+
+  "org-section-speaking": {
+    "mol-title-h2-default": {
+      "title": "Speaking"
+    },
+    "mol-speaking-content-with-links": [
+      {
+        "description": "McGregor keynote on “The Changing Geopolitical Landscape in Asia as China Expands and America Retreats” for CFA India Society in Mumbai in 2018.",
+        "link": "https://players.brightcove.net/1183701590001/rkcysOOFe_default/index.html?videoId=5824184122001"
+      },
+      {
+        "description": "McGregor on Inside Asia podcast on the politics and policies of Xi Jinping, March 2018.",
+        "link": "https://www.youtube.com/watch?v=vX2m_3GhHv0"
+      },
+      {
+        "description": "McGregor gives the University of Minnesota’s Griffin Lecture on A Reset in U.S.-China Relations in 2017. (McGregor’s presentation begins 14 minutes into this video)",
+        "link": "http://www.insideasiapodcast.com/jim-mcgregor-on-xi-jinping-imperial-flashback-or-authoritarian-checkmate/"
+      },
+      {
+        "description": "McGregor keynote on “The Changing Geopolitical Landscape in Asia as China Expands and America Retreats” for CFA India Society in Mumbai in 2018.",
+        "link": "https://players.brightcove.net/1183701590001/rkcysOOFe_default/index.html?videoId=5824184122001"
+      },
+      {
+        "description": "McGregor keynote on “The Changing Geopolitical Landscape in Asia as China Expands and America Retreats” for CFA India Society in Mumbai in 2018.",
+        "link": "https://players.brightcove.net/1183701590001/rkcysOOFe_default/index.html?videoId=5824184122001"
+      },
+      {
+        "description": "McGregor keynote on “The Changing Geopolitical Landscape in Asia as China Expands and America Retreats” for CFA India Society in Mumbai in 2018.",
+        "link": "https://players.brightcove.net/1183701590001/rkcysOOFe_default/index.html?videoId=5824184122001"
+      }
+    ],
+    "mol-speaking-content-info": {
+      "description": "<b>James McGregor </b> is a professional speaker who helps audiences around the world understand China’s complex business and political culture. Speeches range from entertaining keynotes to detailed briefings for executive groups and boards of directors. To enquire about McGregor’s speaking services or book him for an upcoming event, please contact <b>Ben Jacobs.</b>",
+      "url": "ben.jacobs@jamesmcgregor-inc.com",
+      "img": "assets/img/speaking-image.jpg"
+    },
+    "mol-copyright": {
+      "text": "Copyright ©2018, James Mc Gregor Inc. All rights reserved",
+      "social-url": "#"
+    }
+  },
+
+  "org-section-consulting": {
+    "mol-consulting-content-info": [
+      {
+        "description": "As Chairman of Greater China for APCO Worldwide, James McGregor advises clients on their China business, public policy, government relations and communications strategies. He splits his time between Shanghai and Beijing."
+      },
+      {
+        "description": "APCO has been serving clients’ interests in Greater China since 1989. Our Greater China team includes more than 50 professionals from a diverse range of backgrounds, including business, government, journalism, academia and civil society. We cover Greater China from well-established offices in Beijing, Shanghai, and Hong Kong. APCO works with multinational companies, governments, chambers of commerce, issue-based coalitions, multilateral organizations and nonprofit groups to grow, sustain and protect their interests across Greater China. We do this by providing integrated strategic consulting, government relations and communication support in China and internationally."
+      },
+      {
+        "description": "For more information about APCO Worldwide please see: <a href='www.apcoworldwide.com'>www.apcoworldwide.com</a>"
+      }
+    ],
+    "mol-consulting-apco-logo": {
+      "img": "assets/img/apco-logo.jpg"
+    },
+    "mol-copyright": {
+      "text": "Copyright ©2018, James Mc Gregor Inc. All rights reserved",
+      "social-url": "#"
+    },
+    "mol-title-h2-default": {
+      "title": "Consulting"
+    }
+  },
+
+  "org-section-linkedin": {
+    "mol-linkedin-james-bio": {
+      "name": "James McGregor",
+      "description": "James McGregor is an American author, journalist and businessman who has lived in China for more than 25 years.<br> Jing’an District, Shanghai, China",
+      "button": "#"
+    },
+    "mol-linkedin-james-text": [
+      {
+        "description": "The Business Roundtable tries to get talks going on the real issues. Mr. Bolten says the Business Roundtable’s plan reflects the growing frustration of U.S. CEOs in dealing with the Chinese government. A lot of our businesses were in the same place as previous administrations in hoping and expecting that China’s entry into the World Trade Organization [in 2001] would be the beginning of a steady and irreversible progress toward China becoming part of the international trading system, like the Western proponents of democratic capitalism,” Mr. Bolten said. “They have been disappointed that progress hasn’t occurred. If anything, there’s been a regression.” <br> <span><img src='assets/img/earth-image.png'/><a href='#'>See translation</a></span>"
+      },
+      {
+        "description": "The Business Roundtable tries to get talks going on the real issues. Mr. Bolten says the Business Roundtable’s plan reflects the growing frustration of U.S. CEOs in dealing with the Chinese government. A lot of our businesses were in the same place as previous administrations in hoping and expecting that China’s entry into the World Trade Organization [in 2001] would be the beginning of a steady and irreversible progress toward China becoming part of the international trading system, like the Western proponents of democratic capitalism,” Mr. Bolten said. “They have been disappointed that progress hasn’t occurred. If anything, there’s been a regression.” <br> <span><img src='assets/img/earth-image.png'/><a href='#'>See translation</a></span>"
+      }
+    ],
+    "mol-linkedin-post-items": [
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The New York Times - When It Comes to a Trade War, China Takes the Long View",
+        "url": "https://www.ft.com/content/110fa956-87e1-11e8-bf9e-8771d5404543",
+        "data": "August 7, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Financial Times - Beijing downplays Made in China policy",
+        "url": "https://www.ft.com/content/110fa956-87e1-11e8-bf9e-8771d5404543",
+        "data": "July 16, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Financial Times – Beijing hopes for a backlash against Donald Trump’s trade policy",
+        "url": "https://www.ft.com/content/f5059ef8-85bc-11e8-a29d-73e3d454535d",
+        "data": "July 13, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The Washington Post – U.S. companies in China think the government is already messing with them",
+        "url": "https://www.washingtonpost.com/world/asia_pacific/us-companies-in-china-think-the-government-is-already-messing-with-them/2018/07/04/565a333a-7ebf-11e8-b9f0-61b08cdd0ea1_story.html",
+        "data": "July 4, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Los Angeles Times – Some U.S. companies operating in China think the trade war may have already started",
+        "url": "http://www.latimes.com/business/la-fi-china-trade-war-20180704-story.html",
+        "data": "July 4, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Bloomberg - Trump Gets a Lot Out of Trade Wars. The U.S. Gets Less",
+        "url": "https://www.bloomberg.com/news/articles/2018-06-07/trump-gets-a-lot-out-of-trade-wars-the-u-s-gets-less",
+        "data": "June 7, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Financial Times – Multinationals bow to China’s political sensitivities",
+        "url": "https://www.ft.com/content/36c03e40-52a8-11e8-b3ee-41e0209208ec",
+        "data": "May 20, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "AmCham Shanghai – China needs to show real opening, says James McGregor of APCO",
+        "url": "https://www.amcham-shanghai.org/en/article/china-needs-show-real-opening-says-james-mcgregor-apco",
+        "data": "May 17, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Reuters – 焦点：美国财长称双方就贸易进行了友好对话 中方暂未置评",
+        "url": "https://cn.reuters.com/article/cdepth-us-mnuchin-trade-talk-beijing-050-idCNKBS1I509N",
+        "data": "May 4, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Bloomberg – China’s $3 Billion Tariff Response Shows Xi Holding Back, for Now",
+        "url": "https://www.bloomberg.com/news/articles/2018-03-23/xi-holds-back-fire-as-trump-poses-unprecedented-test-on-trade",
+        "data": "March 23, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The Washington Post – China threatens to raise tariffs on about $3 billion of U.S. imports",
+        "url": "https://www.washingtonpost.com/business/economy/trump-moves-toward-imposing-steep-tariffs-on-china-sending-stocks-plummeting/2018/03/22/5cd3a7c6-2dfe-11e8-8ad6-fbc50284fce8_story.html",
+        "data": "March 23, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Bloomberg – The Many Ways China Could Hit Back at Trump Over Tariffs",
+        "url": "https://www.bloomberg.com/news/articles/2018-03-22/the-many-ways-china-can-hit-back-at-trump-from-taxes-to-probes",
+        "data": "March 22, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "NPR – American Business Leaders In China Concerned About Trump's Trade Actions",
+        "url": "https://www.npr.org/2018/03/21/595791421/american-business-leaders-in-china-concerned-about-trumps-trade-actions",
+        "data": "March 21, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The New York Times – When Xi Speaks, Chinese Officials Jump. Maybe Too High.",
+        "url": "https://www.nytimes.com/2018/03/16/world/asia/xi-jinping-china-power.html",
+        "data": "March 16, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The Wall Street Journal – Trump Takes Aim at Next Tariff Target: China",
+        "url": "https://www.wsj.com/articles/trump-takes-aim-at-next-tariff-target-china-1521106203",
+        "data": "March 15, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The New York Times – Trump Readies Sweeping Tariffs and Investment Restrictions on China",
+        "url": "https://www.nytimes.com/2018/03/15/us/politics/trump-china-trade-measures.html",
+        "data": "March 15, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Inside Asia – Jim McGregor on Xi Jinping: Imperial Flashback or Authoritarian Checkmate?",
+        "url": "http://pca.st/e8wH",
+        "data": "March 13, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "CNN – US-China trade ties under Donald Trump",
+        "url": "https://twitter.com/klustout/status/958702486969204737",
+        "data": "January 31, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The Washington Post – Command and control: China’s Communist Party extends reach into foreign companies",
+        "url": "https://www.washingtonpost.com/cd49ffa6-fc57-11e7-9b5d-bbf0da31214d_story.html",
+        "data": "January 29, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The Washington Post – The global economy is ignoring President Trump. Should it?",
+        "url": "https://www.washingtonpost.com/business/economy/the-global-economy-is-ignoring-president-trump-should-it/2018/01/04/213ba5ae-f0d4-11e7-97bf-bba379b809ab_story.html",
+        "data": "January 5, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "South China Morning Post – Beijing’s top US envoy spurns critics of Xi-Trump summit results on North Korea and trade",
+        "url": "https://www.scmp.com/news/china/policies-politics/article/2120297/beijings-top-envoy-spurns-critics-xi-trump-summit",
+        "data": "November 17, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "On Point – Trade With China In The Age Of 'America First'",
+        "url": "http://www.wbur.org/onpoint/2017/11/12/trade-with-china-in-the-age-of-america-first",
+        "data": "November 12, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "CNN – McGregor: Trump being played by China",
+        "url": "https://edition.cnn.com/videos/world/2017/11/09/trump-vibrant-trade-relationship-lu-stout-intv.cnn",
+        "data": "November 9, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Bloomberg – Trump's $250 Billion China Haul Features Little of Substance",
+        "url": "https://www.bloomberg.com/news/articles/2017-11-09/trump-s-250-billion-china-haul-is-big-number-little-substance",
+        "data": "November 9, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "NPR – Shaky U.S.-China Trade Relationship Will Top Trump's Agenda In Beijing",
+        "url": "https://www.npr.org/sections/parallels/2017/11/08/562520694/shaky-u-s-china-trade-relationship-will-top-trumps-agenda-in-beijing",
+        "data": "November 8, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Bloomberg – China’s CEOs View Trump as a Dealmaker",
+        "url": "https://www.bloomberg.com/news/articles/2017-11-08/what-chinese-ceos-see-in-trump-is-a-dealmaker-not-trade-basher",
+        "data": "November 8, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "CNBC –  China wants deals on Trump visit and to avoid policy changes: executive",
+        "url": "https://www.cnbc.com/video/2017/11/07/china-wants-deals-on-trump-visit-and-to-avoid-policy-changes-executive.html",
+        "data": "November 7, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "CNBC – Trump visits China: Here's what to expect",
+        "url": "https://www.cnbc.com/2017/11/06/trump-visits-china-heres-what-to-expect.html",
+        "data": "November 6, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "CNN – New seven-member leadership committee in China",
+        "url": "https://edition.cnn.com/videos/world/2017/10/25/mcgregor-china-xi-jinping-committee.cnn",
+        "data": "October 25, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "CNBC – US-China locked in 'hot' trade competition: APCO Worldwide's James McGregor",
+        "url": "https://www.cnbc.com/video/2017/08/18/us-china-locked-in-hot-trade-competition-apco-worldwides-james-mcgregor.html",
+        "data": "August 18, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The Wall Street Journal – China’s Dream Is Apple’s Nightmare: U.S. Tech Firms Cave to Beijing’s Rules",
+        "url": "https://www.wsj.com/articles/chinas-dream-is-apples-nightmare-u-s-tech-firms-cave-to-beijings-rules-1502215101",
+        "data": "August 8, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The New York Times – Silicon Valley Giants Confront New Walls in China",
+        "url": "https://www.nytimes.com/2017/07/22/technology/in-china-silicon-valley-giants-confront-new-walls.html",
+        "data": "July 22, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The New York Times – Trump Lies. China Thrives.",
+        "url": "https://www.nytimes.com/2017/06/07/opinion/trump-china-trade.html",
+        "data": "June 7, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The Wall Street Journal – Foreign Executives Say China Presents Unique Demands",
+        "url": "https://www.wsj.com/articles/foreign-executives-say-china-presents-unique-demands-1494925069",
+        "data": "May 16, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The Wall Street Journal – Will China’s Tech Nationalism Hurt Foreign Tech Firms?",
+        "url": "https://www.wsj.com/video/will-chinas-tech-nationalism-hurt-foreign-tech-firms/AD31F677-5759-4641-A0A4-2010FFDB0168.html",
+        "data": "May 16, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "CNBC – Here's who wins with the new US-China trade deals",
+        "url": "https://www.cnbc.com/2017/05/12/heres-who-wins-with-the-new-us-china-trade-deals.html",
+        "data": "May 12, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The Washington Post – China is bent on world domination — but not in the way you think",
+        "url": "https://www.washingtonpost.com/opinions/global-opinions/china-is-bent-on-world-domination--but-not-in-the-way-you-think/2017/05/07/ac05993a-31a1-11e7-9534-00e4656c22aa_story.html",
+        "data": "May 8, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Financial Times – Chinese-owned Volvo to export cars from US to China",
+        "url": "https://www.ft.com/content/8854f672-2565-11e7-8691-d5f7e0cd0a16",
+        "data": "April 20, 2018"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The New York Times – As Zeal for China Dims, Global Companies Complain More Boldly",
+        "url": "https://www.nytimes.com/2017/04/19/business/china-companies-complain.html?smprod=nytcore-iphone&smid=nytcore-iphone-share&_r=0",
+        "data": "April 19, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Reuters – U.S. business wary of skin-deep results from Trump-Xi trade talks",
+        "url": "https://www.reuters.com/article/us-china-usa-business-idUSKBN17G0RJ",
+        "data": "April 14, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Bloomberg – China Elevates ‘Good Cop’ on Trade to Counter Trump Barbs",
+        "url": "https://www.bloomberg.com/news/articles/2017-04-11/the-most-important-chinese-trade-official-you-ve-never-heard-of?cmpid=socialflow-twitter-business&utm_content=business&utm_campaign=socialflow-organic&utm_source=twitter&utm_medium=social",
+        "data": "April 11, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "NPR – Summit Between China's Xi Jinping And President Trump Comes Amid Tensions",
+        "url": "https://www.npr.org/sections/parallels/2017/04/06/522764317/summit-between-chinas-xi-jinping-and-president-trump-comes-amid-tensions",
+        "data": "April 6, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The Economist – Averting a Chinese-American trade war",
+        "url": "https://www.economist.com/briefing/2017/03/30/averting-a-chinese-american-trade-war",
+        "data": "March 30, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The New York Times – In China, ‘Disney’ Deals Turn Out to Be Fantasy",
+        "url": "https://www.nytimes.com/2017/03/29/business/china-walt-disney-fake.html",
+        "data": "March 29, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Foreign Policy – Trump’s Top China Expert Isn’t a China Expert",
+        "url": "https://foreignpolicy.com/2017/03/13/peter-navarro-profile-national-trade-council-donald-trump-china-expert/",
+        "data": "March 13, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Des Moines Register – Ambassador role places Branstad on the 'front line of American power and influence'",
+        "url": "https://www.desmoinesregister.com/story/news/politics/2017/03/10/ambassador-role-places-branstad-front-line-american-power-and-influence/98601754/",
+        "data": "March 10, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "AmCham Shanghai – First 30 Days - President Trump’s Impact on U.S.-China Relations",
+        "url": "https://www.amcham-shanghai.org/en/article/first-30-days-president-trumps-impact-us-china-relations",
+        "data": "March 2, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Reuters – U.S. business in China warms to possible Trump trade policy shake-up",
+        "url": "https://uk.reuters.com/article/us-china-usa-business-idUKKBN15U00H",
+        "data": "February 15, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "CNBC – We need a smart reset on US-China policy: Pro",
+        "url": "https://www.cnbc.com/video/2017/02/10/we-need-a-smart-reset-on-us-china-policy-pro.html",
+        "data": "February 10, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Financial Times – US companies in China sound alarm on Trump trade stance",
+        "url": "https://www.ft.com/content/980564ca-dd3b-11e6-9d7c-be108f1c1dce",
+        "data": "January 18, 2017"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "The New York Times – How China Built ‘iPhone City’ With Billions in Perks for Apple’s Partner",
+        "url": "https://www.nytimes.com/2016/12/29/technology/apple-iphone-china-foxconn.html?hp&action=click&pgtype=Homepage&clickSource=story-heading&module=first-column-region&region=top-news&WT.nav=top-news&_r=0&mtrref=undefined&gwh=8C7567FE32A23795921645877B8C2815&gwt=pay",
+        "data": "December 29, 2016"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "CNBC – China's already lined up the retaliation it will do: Pro",
+        "url": "https://www.cnbc.com/video/2016/12/28/chinas-already-lined-up-the-retaliation-it-will-do-pro.html",
+        "data": "December 26, 2016"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "South China Morning Post – As Trump retreats, Xi Jinping moves to upgrade China’s global power play",
+        "url": "https://www.scmp.com/news/china/diplomacy-defence/article/2050741/chinas-one-belt-one-road-plan-pushing-through-global",
+        "data": "December 1, 2016"
+      },
+      {
+        "first-image": "assets/img/news-image-left.png",
+        "text": "News",
+        "second-image": "assets/img/news-image-right.png",
+        "description": "Financial Times – China cyber security law sparks foreign fears",
+        "url": "https://www.ft.com/content/c330a482-a4cb-11e6-8b69-02899e8bd9d1",
+        "data": "November 7, 2016"
+      }
+    ],
+    "mol-copyright": {
+      "text": "Copyright ©2018, James Mc Gregor Inc. All rights reserved",
+      "social-url": "#"
+    },
+    "mol-title-h2-default": 
+      {
+      "title": "Linkedin"
+    }
+  },
+
+  "org-section-contact": {
+    "mol-title-h2-default": {
+      "title": "Contact"
+    },
+    "mol-contact-content": {
+      "description": "To book James McGregor for a speaking engagement or set up a media interview please<br> send an email to: Ben Jacobs at <a href='#'>ben.jacobs@jamesmcgregor-inc.com</a>"
+    },
+    "mol-copyright": {
+      "text": "Copyright ©2018, James Mc Gregor Inc. All rights reserved",
+      "social-url": "#"
+    }
+  },
+
+  "org-about-me": {
+    "mol-copyright": {
+      "text": "Copyright ©2018, James Mc Gregor Inc. All rights reserved",
+      "social-url": "#"
+    },
+    "mol-about-me-description": {
+      "description":"James McGregor is an American author, journalist, and businessman who has lived in China for three decades. He is chairman of APCO Worldwide, Greater China, where he specializes in advising on business, public policy and communications strategies for multinationals. He is also a professional speaker and a commentator for a variety of print, television and radio outlets.<br><br> McGregor is the author of the books “No Ancient Wisdom, No Followers: The Challenges of Chinese Authoritarian Capitalism” (2012) and “One Billion Customers: Lessons from the Front Lines of Doing Business in China” (2005). He also wrote the landmark 2010 report “China’s Drive for ‘Indigenous Innovation’ – A Web of Industrial Policies.”<br><br> Early in his career, McGregor was a police reporter in Los Angeles, and a political reporter in Washington D.C. From 1987 to 1990 McGregor served as The Wall Street Journal’s bureau chief in Taiwan, and from 1990 to 1994 as the paper’s bureau chief in Mainland China. From 1994 to 2000, he was chief executive of Dow Jones & Company in China. He subsequently served as China managing partner for GIV Venture Partners, and founder of JL McGregor, a research firm for hedge funds.<br><br> McGregor is a former chairman of the American Chamber of Commerce in China. He continues to be an advisor to AmCham on US-China business and trade politics and policy. He is a member of the Council on Foreign Relations, National Committee on US-China Relations, and the International Council of the Asia Society. McGregor splits his time between Shanghai and Beijing."
+    },
+    "mol-title-h2-default": {
+      "title": "About me"
+    }
+  },
+
+  "org-page-books":{
+
+    "mol-page-books-image":[
+      {
+        "image":"assets/img/china-drive.png"
+      },
+      {
+        "image":"assets/img/Chinas-Drive-Innovation.jpg"
+      },
+      {
+        "image":"assets/img/Chinas-Drive-Innovation2.jpg"
+      }
+  ],
+  "mol-page-books-info": {
+    "title": "China’s Drive for<br> “Indigenous Innovation”",
+    "subtitle": "A Web of Industrial Polices",
+    "link": "https://www.uschamber.com/sites/default/files/legacy/reports/10"
+  },
+  "mol-page-books-title":{
+    "title":"Overview and Executive Summary"
+  },
+  "mol-page-books-description": {
+    "description1": "<p>To mark the October 1, 2009 sixtieth birthday of the People’s Republic of China, eager crowds of Chinese citizens jostle through walkway tunnels under the moat surrounding the titanium-and-glass domed National Grand Theatre. They have come to watch “Road of Renaissance,” a Broadway style show produced by the Communist Party.</p> <p>In the theatre complex known as “The Egg,” some 3,200 performers sing and dance their way through 170 years of Chinese history – from the mid-1800s Opium Wars, to the 1930s Japanese invasion, to the 1949 founding of the PRC and the 2008 Beijing Olympics – in an explosive spectacle of propaganda wrapped in high-tech stagecraft.</p> <p>The show opens with elegant Qing Dynasty ladies enjoying a Summer Palace opera until flames erupt as Western troops burn it to the ground. Rag-clad peasants stagger under crates overflowing with gold bars destined for foreign ships. Waterfalls of blood drip down the theatre walls as hundreds of Chinese corpses stacked like timber come alive to rise up and vanquish Japanese troops.</p> <p>The tragic 1950s Great Leap Forward and 1960s Cultural Revolution are swiftly dismissed. Film clips of China’s first nuclear explosion and satellite launch lead the way to gleaming skyscrapers, Olympic medal records, speeding bullet trains and Chinese astronauts walking in space - all punctuated with enormous newsreel images of top Party leaders from Mao Zedong to Hu Jintao narrating the Party’s record of triumphing over adversity time and time again.</p> <p>Migrant workers, engineers, bankers, cooks, taxi drivers, farmers, students and bureaucrats lock arms and sing the national anthem. On this 60th anniversary, China is marking its resurgence as a great nation that will soar to ever greater heights as long as all Chinese people stick together.</p> <p>The show ends with “Long Live the Great Communist Party” flashing on the screen.</p> <p>“Road of Renaissance” mixes two conflicting sentiments: victory and victimization. These clashing themes of unbridled national pride vs. distrust of foreigners are cross-stitched throughout the fabric of China’s national psyche and political culture. They are also deeply entrenched in China’s vast economic planning bureaucracy and fused into the DNA of the country’s extensive new industrial policies that Party leaders have hung under the banner of “Indigenous Innovation.”</p> <p>The result is an indigenous innovation political and economic campaign that amounts to an all-hands-on-deck call to action for the Chinese nation to roll up its sleeves and complete the mission of catching up and even surpassing the West in science and technology that began 200 years ago when foreigners with modern weaponry and transportation technology came calling as the Chinese dynastic system was dissipating.</p> <p>The campaign is focused on employing China’s fast-growing domestic market and powerful regulatory regime to decrease reliance on foreign technology and develop indigenous technologies that will enable China to solve its massive environmental, infrastructure and social problems, and as a result enhance both its economy and national security.</p> <p>The slogan and broad plans for indigenous innovation were officially unveiled in 2006. But the policy’s importance and complexity are just now coming to global attention as supporting regulations pour out of bureaucracies in Beijing and across the country. In Party liturgy, 'Indigenous Innovation' is China's follow-on blueprint to Deng Xiaoping's 1978 'Reform and Opening.' The evidence for the historical importance of indigenous innovation includes: the turbulent preparation process, unprecedented senior level management mobilization, elaborate web of policies and implementation tools and surging government science and technology spending -- topping $130 billion this year, according to the National Bureau of Statistics - as China races to develop its own integrated circuits, passenger airliners, global technology standards and all manner of intellectual property.</p> <p>All this is reinforced through frequent and forceful statements and speeches from President Hu Jintao and Premier Wen Jiabao. As Premier Wen said in unveiling the 2006 policy outline: “We fundamentally have to rely on two main drivers, one, to persist in the promotion of opening and reform, and two, rely on the progress of science and technology and the strengths of innovation.”</p> <p>Indigenous innovation is a massive and complicated plan to turn the Chinese economy into a technology powerhouse by 2020 and a global leader by 2050. The landmark document that launched the campaign carries the bureaucratic title “The National Medium- and Long-Term Plan for the Development of Science and Technology (2006-2020)” (now known in the West as the MLP). Bland as the title may be, the MLP describes itself as the “grand blueprint of science and technology development” to bring about the “great renaissance of the Chinese nation.”</p> <p>The MLP preamble calls for the Chinese people to “seize the opportunities and meet the challenges brought by the new science and technology revolution” ... because ... “despite the size of our economy, our country is not an economic power, primarily because of our weak innovative capacity.”</p> <p>The MLP blueprint is full of grand visions, good intentions and gilded rhetoric about international cooperation and friendship. It calls for fostering open-minded scientists who take risks and work in collaboration with the best scientists across the globe. It encourages Chinese enterprises to establish overseas research and development centers. It calls for “establishing the nation’s credibility and image in international cooperation” and “to perfect the nation’s intellectual property rights system.” It also sets goals for expanded cooperation with foreign universities, research centers and corporate R&D centers.</p> <p>But it is also steeped in suspicion of outsiders. The MLP explicitly states that a key tool for China to create its own intellectual property and proprietary product lines will be through tweaking foreign technology. Indeed, the MLP defines indigenous innovation as “enhancing original innovation through co-innovation and re-innovation based on the assimilation of imported technologies.” It also warns against blindly importing foreign technology without plans to transform it into Chinese technology. The report states: “One should be clearly aware that the importation of technologies without emphasizing the assimilation, absorption and re-innovation is bound to weaken the nation’s indigenous research and development capacity.”</p> <p>As a result, the plan is considered by many international technology companies to be a blueprint for technology theft on a scale the world has never seen before. </p> <p>As the MLP blueprint was pushed through the Chinese bureaucracy, the openness and international cooperation aspects seem to have been trimmed away. The major implementing rules and regulations are emerging encased in what some scholars have dubbed “techno-nationalism.” The bureaucracy’s thinking bears some resemblance to the architect of the magnificent National Grand Theatre’s vision of his creation as a “cultural island in the middle of a moat.”</p> <p>Policies forming the moat include a mandate to replace foreign technology in such “core infrastructure” as banking and telecommunications systems. That means products like integrated circuits, operating software, switches and routers, database management and encryption systems.1 Patent rules now make it easier for domestic retaliation by Chinese companies which face overseas Intellectual Property Rights (IPR) lawsuits from foreign competitors.2 Product testing and approval regimes are geared to delay the introduction of foreign imports into China, and to study foreign designs and production processes before the products cross the border.3 A refocus on state-industry monopolies and controlled competition privileges accompanied the enactment of an anti-monopoly law that seems fixated on foreign transactions.4 Government procurement policies block products not designed and produced in China.5 Chinese industrial and technology standards serve as market barriers to foreign technology.6</p> <p>With these indigenous innovation industrial policies, it is very clear that China has switched from defense to offense.</p> <p>The financial meltdown in the West, and China’s deep-pocketed ability to maintain high growth, have convinced China’s leaders that the time has come to step forward and make global rules and employ China’s market to build global companies. Some Chinese scholars contend that Party leaders last year even edited Deng Xiaoping’s authoritative 1989 foreign affairs directive, updating the wording to instruct Party officials to be less humble and more assertive. The holy grail of science and technology is considered the key to China finally breaking free from its embattled past. Premier Wen expressed this “never again” view in November 2009 when key indigenous innovation regulations were unveiled: “Only by using the power of science and technology will China, this massive ark, be able to produce the immeasurable ability to allow nobody to stop our advance forward.”</p>",
+    "description2": "<p>China so far seems to be oblivious to the impossibility of having it both ways, hunkering behind the “techno-nationalism” moat at home while reaching into the global network of science collaboration and research. What is worrisome for the business community is that these indigenous innovation industrial policies are headed toward triggering contentious trade disputes and inflamed political rhetoric on both sides. For the academic and scientific research community, the results could be devastating. Ethnic Chinese scientists in the US, who are involved in research projects and advisory bodies in both countries, could become tragic collateral damage if politicians decide to question their loyalties. And while China's scientists, prodded by the state, are making gains, significant discoveries and inventions are still few and far between given the enormous sums of money spent and China’s impressive and fast growing talent pool.</p><p>It would be difficult to find anybody in the international business community or among China’s trading partners who oppose the Chinese leadership’s 2003 goal of upgrading the country’s economy through “scientific development.” China’s remarkable rise in the past 30 years is an unprecedented global achievement that has brought the country great respect, admiration and many friends around the world. This extraordinary progress came from Chinese political leaders who displayed courage and confidence in making radical and painful changes in the country’s system, and hungry and tireless citizens who gathered knowledge and know-how from around the world and worked 24-hours-a-day to succeed.</p><p>While indigenous innovation is considered by China to be a bold second act of Deng’s reform and opening, in the West the campaign is increasingly perceived as anti-foreign and regressive. Indigenous innovation seems to be a policy borne as much of China’s fear of foreign domination as China’s pride in its great accomplishments and desire to be a leader in the rules-based international system.</p><p>For many multinationals – especially tech companies -- the policies appear to signal that the pretense of goodwill is gone. The belief by foreign companies that large financial investments, the sharing of expertise and significant technology transfers would lead to an ever opening China market is being replaced by boardroom banter that win-win in China means China wins twice.</p><p>When it comes to technology transfers, Chinese officials believe foreign companies have been duplicitous and stingy. In their view, the bargain was market access in exchange for know-how and technology, and foreign companies held back their best to contain China’s rise. Multinationals, on the other hand, consider open markets to be the normal state of business. Their reluctance to bring their technological crown jewels to China comes from living through many years of rampant disregard for IP protection and joint-venture partners who reopened as competitors down the road once they got what they needed.</p><p>These separate points of view, and China’s persistent IP theft problem, are now compounded by the indigenous innovation industrial policies which compel technology transfers in order to have access to the China market. But the problem now goes far beyond the China market as multinationals expect to see their own technology coming back at them globally in the hands of Chinese competitors.</p><p>At the same time, many multinationals are increasingly dependent on their China profits. As one conglomerate strategist said: “We can’t afford to antagonize China.” Behind the smiling faces they display in Beijing, many foreign tech executives are rethinking their China plans as they try to figure out whether they should, or how they can, adjust to the new Chinese system. Some figure that they may be better off entering into technology partnerships with Chinese government companies to have their products qualify as indigenous innovation and reap the profits for a few years before unloading those divisions as it becomes apparent their global prospects are likely doomed by the China deal. Others are looking to tap into Chinese indigenous innovation funds and partner with Chinese companies to enter into adjacent businesses where they aren’t real players. Aerospace, telecoms and transportation are seen as the ripest opportunities under this scenario. But many single industry and single product companies could be destroyed in the process. Global markets are likely to become increasingly distorted, and the end result could be a chilling effect on innovation globally.</p><p>As political tensions rise over indigenous innovation, the Obama administration and Congress should understand this is not just another run-of-the-mill China policy dispute that can be addressed through new rounds of bilateral diplomatic discussions and bombastic legislative initiatives. In the aftermath of the global financial crisis and in light of the Chinese government funding much of the American budget deficit, there is a power shift underway— at least China firmly believes that.</p><p>No matter whether or not the US agrees with that view, the indigenous innovation campaign and surrounding web of industrial policies represent the beginning of a new era in not only the US-China economic and political relationship but in China’s relationship with international business and the developed world.</p><p>What follows is an attempt to explain the details of China’s still unfolding indigenous innovation industrial policies while placing them in historical, political, social and economic context. Only through understanding this “intricate web” and clearly analyzing the emerging and likely global repercussions can business leaders and policymakers in the US, China and across the globe seek solutions that avoid China becoming enmeshed in political confrontation and protracted trade disputes with those countries and companies that lead the world in innovation and invention.</p>"
+    
+  },
+
+    "mol-copyright": {
+      "text": "Copyright ©2018, James Mc Gregor Inc. All rights reserved",
+      "social-url": "#"
+    }
+  },
+
+  "org-gallery": {
+    "mol-gallery-item": [
+      {
+        "image": "assets/img/gallery-1.jpg"
+      },
+      {
+        "image": "assets/img/gallery-2.jpg"
+      },
+      {
+        "image": "assets/img/gallery-3.jpg"
+      },
+      {
+        "image": "assets/img/gallery-1.jpg"
+      },
+      {
+        "image": "assets/img/gallery-2.jpg"
+      },
+      {
+        "image": "assets/img/gallery-3.jpg"
+      },
+      {
+        "image": "assets/img/gallery-1.jpg"
+      },
+      {
+        "image": "assets/img/gallery-2.jpg"
+      },
+      {
+        "image": "assets/img/gallery-3.jpg"
+      }
+    ],
+    "mol-title-h2-default": {
+      "title": "Gallery"
+    }
+  },
+
+  "org-copyright": {
+    "mol-copyright": {
+      "text": "Copyright ©2018, James Mc Gregor Inc. All rights reserved",
+      "social-url": "#"
+    }
+  }
+
+}
+
