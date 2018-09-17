@@ -12,7 +12,7 @@ $wpb_all_query = new WP_Query(array('post_type' => 'books_wrapper', 'post_status
                       <div class="books__content__block__main  col-12 col-lg-4">
                       <div class="books__content__block__main__item ">
                           <div class="books__content__block__main__item__image-book d-block ">
-                            <?php echo get_the_post_thumbnail( $page->ID, 'full'); ?>
+                            <?php echo get_the_post_thumbnail( get_the_ID(), 'full'); ?>
                           </div>
                           <div class="books__content__block__main__item__book-info ">
                               <a href="<?php the_permalink(); ?>"><h2><?php the_title(); ?></h2></a>
