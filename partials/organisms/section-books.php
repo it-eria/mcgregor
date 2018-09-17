@@ -15,16 +15,16 @@ $wpb_all_query = new WP_Query(array('post_type' => 'books_wrapper', 'post_status
                             <?php echo get_the_post_thumbnail( get_the_ID(), 'full'); ?>
                           </div>
                           <div class="books__content__block__main__item__book-info ">
-                              <a href="<?php the_permalink(); ?>"><h2><?php the_title(); ?></h2></a>
+                              <a target="_blank" href="<?php the_permalink(); ?>"><h2><?php the_title(); ?></h2></a>
                               <?php the_content(); ?>
-                              <a href="<?php the_permalink(); ?>" class="books-button"><?php _e('Read more', 'custom'); ?></a>
+                              <a target="_blank" href="<?php the_permalink(); ?>" class="books-button"><?php _e('Read more', 'custom'); ?></a>
                           </div> 
                       </div>
                       <div class="books__content__block__main__link">
-                          <a href="<?php the_field('url_for_book'); ?>"><?php the_field('url_for_book'); ?></a>
+                          <a target="_blank" href="<?php the_field('url_for_book'); ?>"><?php the_field('url_for_book'); ?></a>
                       </div>
                   </div>
-               <?php endwhile; ?>
+               <?php endwhile; ?> 
             </div>
         </div>
     </div>

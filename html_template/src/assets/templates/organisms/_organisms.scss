@@ -15,7 +15,7 @@ nav {
   z-index: 1;
 }
 
-nav #brand {
+nav #brand { 
   float: left;
   display: block;
   margin: 0;
@@ -1727,4 +1727,56 @@ p, h2 {
 .current-menu-item a {
   color: #ab1f1f !important;
   text-decoration: none;
+}
+
+
+// 404 page 
+
+.page-error {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  .wrapper-error {
+    width: 100%;
+    max-width: 400px;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    text-align: right;
+    h2 {
+      font-family: 'NunitoSans-Regular';
+      font-size: 46px;
+    }
+
+    h1 {
+      font-size: 200px;
+      color: #b30202;
+      font-family: 'NunitoSans-Regular';
+      font-weight: 900;
+    }
+
+    h4 {
+      font-size: 20px;
+      font-family: 'NunitoSans-Regular';
+
+      a {
+        color: #b30202;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .page-error {
+    .wrapper-error {
+      h1 {
+        font-size: 150px;
+      }
+
+      h2 {
+        font-size: 40px;
+      }
+    }
+  }
 }

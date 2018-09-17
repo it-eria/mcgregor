@@ -7,7 +7,7 @@
     <title><?php wp_title(); ?></title>
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>">
-    <link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/favicon.png"/>
+    <link rel="shortcut icon" href="<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/img/favicon.jpg"/>
     <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/css/vendors/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/css/vendors/aos.css">
     <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/css/vendors/slick.css">

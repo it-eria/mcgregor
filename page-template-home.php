@@ -5,6 +5,7 @@
     <?php get_template_part("partials/organisms/section-books"); ?>
     <?php get_template_part("partials/organisms/section-speaking"); ?>
     <?php get_template_part("partials/organisms/section-consulting"); ?>
+    <?php get_template_part("partials/organisms/section-linkedin"); ?>
     <?php get_template_part("partials/organisms/section-contact"); ?> 
 </div>    
 <?php get_footer(); ?>  

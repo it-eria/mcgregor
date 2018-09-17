@@ -1,4 +1,4 @@
-<section id="consulting" data-number="" class="consulting" style="background-image: url('assets/img/consulting-bg.jpg')">
+<section id="consulting" data-number="" class="consulting" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/img/consulting-bg.jpg')">
     <div class="container">
         <div class="consulting__content">
         <?php   
@@ -7,7 +7,7 @@
             include get_template_directory() . '/partials/molecules/title-h2-default.php';
              $my_query = new WP_Query('page_id=20');
                 while ($my_query->have_posts()) : $my_query->the_post();
-                $do_not_duplicate = $post->ID;?>
+                $do_not_duplicate = $post->ID;?> 
             <div class="consulting__content__main">
                 <div class="consulting__content__main__info col-12 col-lg-6 ">
                     <?php the_content(); ?>
@@ -17,7 +17,7 @@
                 </div>
             </div>
             <?php endwhile; 
-             wp_reset_query(); ?>
+             wp_reset_query(); ?> 
         </div>
     </div>
 <?php if(is_front_page()){ ?>  

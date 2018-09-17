@@ -7,7 +7,7 @@ $quote_url = get_sub_field('quote_url');
         <p><?php echo $quote_item; ?></p>
     <?php endif; 
      if( $quote_url ): ?>
-        <a href="<?php echo $quote_url; ?>"><?php echo $quote_url; ?></a>
+        <a target="_blank" href="<?php echo $quote_url; ?>"><?php echo $quote_url; ?></a>
     <?php endif; ?>
 </div>
 <?php endwhile; ?>
