@@ -170,11 +170,22 @@ header {
   height: 100% !important;
 }
 
+@media screen and (min-width: 993px) {
+  .home {
+    display: flex;
+    align-items: center;
+    background-size: cover;
+  }
+}
+
 .home {
   width: 100%;
   height: auto;
   position: relative;
-  background-size: cover;
+  //display: flex;
+  //align-items: center;
+  //background-size: cover;
+
   background-repeat: no-repeat;
   background-position-x: right;
   padding-top: 70px;
@@ -195,7 +206,7 @@ header {
       flex-direction: column;
       padding: 0;
       justify-content: center;
-      margin-top: 200px;
+      //margin-top: 200px;
       h2 {
         font-size: 80px;
         font-weight: 500;
@@ -281,12 +292,16 @@ header {
 
 .books {
   width: 100%;
-  height: 100%;
+  //height: 100%;
   min-height: 600px;
-  position: relative;
+  //position: relative;
   background-size: cover;
   background-repeat: no-repeat;
   background-position-x: right;
+  position: absolute;
+  height: 100%;
+  display: flex;
+  align-items: center;
   &__content {
     width: 100%;
     height: auto;
@@ -391,13 +406,24 @@ header {
 }
 
 .speaking {
+  //width: 100%;
+  //height: auto;
+  //position: relative;
+  //padding: 120px 0 40px 0;
+  //background-size: cover;
+  //background-position: bottom;
+  position: absolute;
+  padding: 0!important;
   width: 100%;
-  height: auto;
-  position: relative;
-  padding: 120px 0 40px 0;
-  background-size: cover;
-  background-position: bottom;
-  background-repeat: no-repeat;
+  left: 0;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  //background-repeat: no-repeat;
   &__main {
     &__block {
       display: flex;
@@ -460,9 +486,13 @@ header {
 
 .consulting {
   width: 100%;
-  height: auto;
-  padding: 150px 0 0 0;
-  position: relative;
+  //height: auto;
+  display: flex;
+  align-items: center;
+  position: absolute;
+  height: 100%;
+  //padding: 150px 0 0 0;
+  //position: relative;
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
@@ -506,9 +536,14 @@ header {
 
 .linkedin-media {
   width: 100%;
-  height: auto;
-  padding: 150px 0 0 0;
-  position: relative;
+  //height: auto;
+  //padding: 150px 0 0 0;
+  //position: relative;
+  padding: 0;
+  position: absolute;
+  display: flex;
+  align-items: center;
+  height: 100%;
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
@@ -744,7 +779,7 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: top;
-    padding-top: 190px;
+    padding-top: 140px;
     &__main {
       display: flex;
       width: 100%;
@@ -781,7 +816,8 @@ header {
     display: block;
     position: absolute;
     width: 100%;
-    bottom: auto;
+    //bottom: auto;
+    bottom: 0;
     height: auto;
     background-color: #0e171d;
   }
@@ -939,6 +975,7 @@ header {
     &:first-child {
       box-shadow: 0 10px 10px #ccc;
       max-width: 460px;
+      width: 100%;
     }
   }
 }
@@ -959,7 +996,7 @@ p, h2 {
   }
 
   .container {
-    height: 100%;
+    //height: 100%;
   }
 
   .home__main__content {
@@ -1002,8 +1039,14 @@ p, h2 {
   margin: 5px 0;
 }
 
-.consulting, .linkedin-media {
-  padding-top: 80px;
+  .consulting {
+    position: absolute;
+    height: 100%;
+    display: flex;
+    align-items: center;
+  }
+ .linkedin-media {
+  padding: 30px 0 0;
 }
 
 .linkedin-media__main__content__post__follow a {
@@ -1115,6 +1158,20 @@ p, h2 {
 /*MEDIA MAX 992px*/
 
 @media screen and (max-width: 992px) {
+
+  .about__copyright-default, .linkedin-media {
+    position: relative;
+  }
+
+  .books, .consulting{
+    position: relative;
+    height: auto;
+  }
+
+  .speaking {
+    position: relative;
+    padding-top: 80px !important;
+  }
 
   .books__content {
     padding: 0 !important;
@@ -1720,9 +1777,9 @@ p, h2 {
   margin-top: 60px;
 }
 
-.pad-t-75 {
-  padding-top: 75px;
-}
+//.pad-t-75 {
+//  padding-top: 75px;
+//}
 
 .current-menu-item a {
   color: #ab1f1f !important;
@@ -1779,4 +1836,22 @@ p, h2 {
       }
     }
   }
+}
+
+@media screen and (min-height: 600px) and (max-height: 768px) {
+  .flex-style-resolutions {
+    display: flex;
+  }
+
+  .books__content {
+    padding: 0;
+  }
+
+  .linkedin-media__main__content__image {
+    height: 145px;
+  }
+}
+
+.book-page + .about__copyright-default {
+  position: relative;
 }

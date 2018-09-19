@@ -1,5 +1,5 @@
 <section class="book-page">
-    <div class="container">
+    <div class="container flex-style-resolutions">
         <div class="book-page__main">
         <?php         
         $wpb_all_query = new WP_Query(array('post_type'=>'books_wrapper', 'post_status'=>'publish', 'posts_per_page'=>-1)); ?>

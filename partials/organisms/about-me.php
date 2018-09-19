@@ -1,4 +1,4 @@
-<div class="about">
+
     <section class="about__block" style="background-image: url('<?php the_field('about_background_image', 'option'); ?>')">
         <div class="container"> 
             <div class="about__block__main">                
@@ -21,4 +21,3 @@
             </div>
         </div>
     </section>
-</div>

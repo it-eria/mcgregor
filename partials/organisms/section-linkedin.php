@@ -1,5 +1,5 @@
 <section id="media" data-number="" class="linkedin-media" style="background-image: url('<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/img/media-bg.jpg')">
-    <div class="container">
+    <div class="container flex-style-resolutions">
         <div class="linkedin-media__main">
             <div class="linkedin-media__main__content col-12 col-lg-6">
                 <div class="title-default">
@@ -53,7 +53,7 @@ if ($wp_query->have_posts()) : ?>
                         <div class="linkedin-media__main__media__posts__item__news">
                             <img src="<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/img/news-image-left.png" alt="image" />
                             <p><?php echo get_cat_name(3); ?></p>
-                            <img src="<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/img/news-image-right.png" alt="image" />
+                            <a href="#"><img src="<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/img/news-image-right.png" alt="image" /></a>
                         </div>
                         <div class="linkedin-media__main__media__posts__item__description">
                             <p><?php the_title(); ?> </p>
@@ -94,7 +94,7 @@ wp_reset_query(); ?>
 }
 
 .linkedin-media {
-    padding: 150px 0 40px 0;
+    padding: 80px 0;
 }
 </style>
     <?php }?>

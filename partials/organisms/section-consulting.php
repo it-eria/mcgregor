@@ -28,11 +28,11 @@
     </div>
     <?php }    
     else { ?>
-        <style>
-        .consulting {
-            height: 97vh;
-        }
-        </style>
+<!--        <style>-->
+<!--        .consulting {-->
+<!--            height: 97vh;-->
+<!--        }-->
+<!--        </style>-->
     <?php }
     ?>  
 </section>
