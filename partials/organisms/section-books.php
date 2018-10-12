@@ -17,11 +17,23 @@ $wpb_all_query = new WP_Query(array('post_type' => 'books_wrapper', 'post_status
                           <div class="books__content__block__main__item__book-info ">
                               <a target="_blank" href="<?php the_permalink(); ?>"><h2><?php the_title(); ?></h2></a>
                               <?php the_content(); ?>
+                              <?php  if(get_field('link_download_pdf') || get_field('link_download_epub')){ ?>
+                                  <p>
+                              <?php } ?>
                               <a target="_blank" href="<?php the_permalink(); ?>" class="books-button"><?php _e('Read more', 'custom'); ?></a>
-                          </div> 
+                                  </p>
+                          </div>
                       </div>
                       <div class="books__content__block__main__link">
                           <a target="_blank" href="<?php the_field('url_for_book'); ?>"><?php the_field('url_for_book'); ?></a>
+                          <?php
+                          if(get_field('link_download_pdf')){
+                              ?><p><a target="_blank" href="<?php echo get_field('link_download_pdf'); ?>" class="books-button"><?php _e('For free PDF of this book', 'custom'); ?></a></p>
+                          <?php }
+                          if(get_field('link_download_epub')){
+                              ?><p><a target="_blank" href="<?php echo get_field('link_download_epub'); ?>" class="books-button"><?php _e('For free download this book in EPUB', 'custom'); ?></a></p><?php
+                          }
+                          ?>
                       </div>
                   </div>
                <?php endwhile; ?> 

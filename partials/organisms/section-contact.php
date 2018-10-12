@@ -8,7 +8,7 @@
                 $my_query = new WP_Query('page_id=26');
                     while ($my_query->have_posts()) : $my_query->the_post();
                     $do_not_duplicate = $post->ID;?>
-                    <div class="contact__main__description">
+                    <div class="contact__main__description col-lg-5 col-sm-12">
                         <?php the_content(); ?>
                     </div>
             <?php endwhile; 

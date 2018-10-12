@@ -17,6 +17,14 @@
                     <h2><?php the_title(); ?></h2>
                     <h4><?php the_field('book_subtitle'); ?></h4>
                     <a href="<?php the_field('url_for_book'); ?>"><?php the_field('url_for_book'); ?></a>
+                    <?php
+                    if(get_field('link_download_pdf')){
+                        ?><p><a target="_blank" href="<?php echo get_field('link_download_pdf'); ?>" class="books-button"><?php _e('For free PDF of this book', 'custom'); ?></a></p>
+                    <?php }
+                    if(get_field('link_download_epub')){
+                        ?><p><a target="_blank" href="<?php echo get_field('link_download_epub'); ?>" class="books-button"><?php _e('For free download this book in EPUB', 'custom'); ?></a></p><?php
+                    }
+                    ?>
                 </div>
             <?php if( have_rows('book_description_container') ): 
             while( have_rows('book_description_container') ): the_row(); 

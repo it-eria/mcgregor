@@ -9,10 +9,10 @@
                 while ($my_query->have_posts()) : $my_query->the_post();
                 $do_not_duplicate = $post->ID;?> 
             <div class="consulting__content__main">
-                <div class="consulting__content__main__info col-12 col-lg-6 ">
+                <div class="consulting__content__main__info col-12 col-lg-8 ">
                     <?php the_content(); ?>
                 </div> 
-                <div class="consulting__content__main__image-bg col-12 col-lg-6">
+                <div class="consulting__content__main__image-bg col-12 col-lg-4">
                 <?php the_post_thumbnail('full'); ?>
                 </div>
             </div>

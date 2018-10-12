@@ -55,3 +55,7 @@
         </div>
     </div>
 </header>
+
+<!--add by ira.che 10.10.2018-->
+<!--<div id="loader-wrapper"><div id="loader"></div></div>-->
+<!---end of add by ira.che 10.10.2018--->
