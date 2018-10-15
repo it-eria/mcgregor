@@ -16,7 +16,6 @@
     <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/custom_.css?v=2.2">
     <?php if(is_front_page()) { echo '<link rel="stylesheet" href="' . get_stylesheet_directory_uri() . '/loader-home.css">'; } ?>
     <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/home_tabs.css">
-
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <?php if(is_front_page()){?><link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/css/vendors/onepage-scroll.css"><?php }?>
     <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/html_template/build/assets/css/vendors/bootstrap-theme.min.css">

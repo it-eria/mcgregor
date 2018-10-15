@@ -119,7 +119,8 @@ nav .menu li a:hover {
 #resize .menu {
   max-height: 50px;
   height: auto;
-  display: table-cell;
+  //display: table-cell;
+  display: block;
   vertical-align: middle;
   padding: 0;
 }
@@ -149,9 +150,16 @@ nav .menu li a:hover {
 }
 
 #resize.active {
+  //visibility: visible;
+  //opacity: 0.99;
+  //display: table;
+
   visibility: visible;
-  opacity: 0.99;
-  display: table;
+  opacity: .99;
+  display: block;
+  z-index: 999999999999;
+  height: 350px;
+  overflow-y: scroll;
 }
 
 header {
